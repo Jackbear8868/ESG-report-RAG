@@ -1,0 +1,548 @@
+{
+    "再生材料使用比例": [
+        "在這家公司的 ESG 報告書中，檢索所有包含「再生材料使用比例」字眼的段落，並提取具體數值與所屬年度。",
+        "請在 ESG 報告書中查找「再生材料使用比例」指標的定義與計算方法，並總結其描述細節。",
+        "於該公司的 ESG 報告中，尋找有關「再生材料使用比例」在不同產品線或事業部門的披露情況與比較分析。",
+        "請定位 ESG 報告書中關於「再生材料使用比例」的管理方針或目標，並摘錄相關政策內容。",
+        "在公司的 ESG 報告書裡，查詢「再生材料使用比例」歷年趨勢數據，並撰寫概述說明。"
+    ],
+    "再生塑膠佔比": [
+        "在該公司 ESG 報告書內，找出所有提到「再生塑膠佔比」的章節，並彙整出所列數值。",
+        "請檢索 ESG 報告書中「再生塑膠佔比」的定義、衡量範圍及計算公式，並摘要主要內容。",
+        "於該公司 ESG 報告書中，定位有關「再生塑膠佔比」在不同產品或包裝形式中的說明與數據比較。",
+        "在 ESG 報告書中，查找「再生塑膠佔比」相關的目標設定與實際達成率，並摘錄關鍵文字。",
+        "請在公司的 ESG 報告中，提取「再生塑膠佔比」歷年變化趨勢圖表及其數據解讀。"
+    ],
+    "rPET 含量": [
+        "在這家公司的 ESG 報告書中，定位所有提及「rPET 含量」的段落，並擷取對應數值與單位。",
+        "請在 ESG 報告書裡檢索「rPET 含量」的定義、測量方法與檢驗標準，並彙整重點。",
+        "於公司 ESG 報告的供應鏈章節中，尋找「rPET 含量」在各原材料來源中的披露與比較。",
+        "在該 ESG 報告書中，查詢「rPET 含量」的年度目標與實際完成率，並摘錄相關敘述。",
+        "請定位 ESG 報告書內包含「rPET 含量」的表格或圖表，並提取每年數據與趨勢。"
+    ],
+    "PCR 材料使用": [
+        "在公司的 ESG 報告書中，搜尋「PCR 材料使用」相關章節，並摘錄使用比例與來源說明。",
+        "請在 ESG 報告書中查找「PCR 材料使用」的定義、種類與計算方式，並彙整關鍵資訊。",
+        "於公司 ESG 報告書中，定位「PCR 材料使用」在不同產品或包裝應用中的實際案例與數據。",
+        "在該 ESG 報告書裡，查詢「PCR 材料使用」的年度目標、政策措施及達成進度描述。",
+        "請提取 ESG 報告書中「PCR 材料使用」相關的表格或圖示，並說明數據來源與註解。"
+    ],
+    "導入再生料": [
+        "在這家公司的 ESG 報告書中，搜尋「導入再生料」的全文，並摘錄具體導入數量與比例。",
+        "請在 ESG 報告書裡查找「導入再生料」的策略部署與實施步驟，並彙整主要內容。",
+        "於公司 ESG 報告中，定位「導入再生料」在供應鏈或製造流程中的實際案例與成果數據。",
+        "在該 ESG 報告書中，查詢「導入再生料」相關的年度目標、KPI 與達成率描述。",
+        "請提取 ESG 報告書中提及「導入再生料」的表格或流程圖，並說明其註解與說明文字。"
+    ],
+    "recycled content ratio%": [
+        "In the company’s ESG report, locate and extract any figures or tables reporting the “recycled content ratio%” for products or materials, including year‐on‐year changes.",
+        "Search the ESG report for the definition and calculation methodology of “recycled content ratio%” and summarize the key parameters used.",
+        "Find narrative sections in the ESG report that discuss corporate targets or policies related to improving the “recycled content ratio%” and quote the relevant passages.",
+        "Identify any charts, graphs, or appendices in the ESG report that illustrate the distribution of “recycled content ratio%” across different business units or product lines.",
+        "Retrieve text in the ESG report where management commentary reflects on challenges or achievements in increasing the “recycled content ratio%.”"
+    ],
+    "PCR plastic usage": [
+        "Within the ESG report, find all references to “PCR plastic usage” and extract the reported volumes or percentages by year.",
+        "Search for the ESG report’s section that defines “PCR plastic usage,” including the types of PCR plastics included and the data sources used.",
+        "Locate case studies or examples in the ESG report that describe projects or products featuring high “PCR plastic usage.”",
+        "Identify any ESG report narrative on corporate goals, KPIs, or timelines for increasing “PCR plastic usage” and summarize them.",
+        "Find tables or charts in the ESG report that compare “PCR plastic usage” across regions, product categories, or suppliers."
+    ],
+    "rPET content": [
+        "In the ESG report, search for mentions of “rPET content” and extract the numerical values or percentages presented.",
+        "Locate the ESG report section outlining the methodology for measuring “rPET content” and note any quality assurance or certification details.",
+        "Find narrative commentary in the ESG report that discusses the strategic importance of increasing “rPET content” in products.",
+        "Identify figures or appendices in the ESG report that show trends over time for “rPET content” and capture the associated data.",
+        "Search for case examples or supplier partnerships in the ESG report that illustrate improvements in “rPET content.”"
+    ],
+    "% recycled materials": [
+        "Within the ESG report, extract all occurrences of “% recycled materials” in tables, and list the reported percentages by segment or product line.",
+        "Find the ESG report’s description of how “% recycled materials” is defined and calculated, including any exclusions or scopes.",
+        "Locate management discussion in the ESG report about progress toward corporate targets for “% recycled materials.”",
+        "Identify charts or graphs in the ESG report showing the historical trend of “% recycled materials” over multiple years.",
+        "Search for narrative passages in the ESG report that highlight challenges or initiatives to increase the “% recycled materials.”"
+    ],
+    "recycled plastic usage rate": [
+        "In the company’s ESG report, find the section reporting the “recycled plastic usage rate” and capture the numerical values by year.",
+        "Search for the ESG report’s methodology describing how the “recycled plastic usage rate” is measured and any standards referenced.",
+        "Identify narrative content in the ESG report where leadership comments on initiatives to improve the “recycled plastic usage rate.”",
+        "Locate any visualizations (charts, graphs) in the ESG report depicting the “recycled plastic usage rate” across different product categories.",
+        "Extract text in the ESG report detailing internal KPIs or external benchmarks related to the “recycled plastic usage rate.”"
+    ],
+    "PCR material use": [
+        "Search the ESG report for mentions of “PCR material use” and extract the associated data points or percentages.",
+        "Find the ESG report section defining “PCR material use,” including which categories of post‐consumer recycled materials are included.",
+        "Locate narrative discussion in the ESG report that explains corporate strategies to expand “PCR material use.”",
+        "Identify tables or charts in the ESG report showing trends in “PCR material use” by region or product type.",
+        "Extract any case studies in the ESG report that illustrate successful increases in “PCR material use.”"
+    ],
+    "post-consumer plastic share": [
+        "Within the ESG report, locate all references to “post-consumer plastic share” and summarize the reported percentages or volumes.",
+        "Search for the ESG report’s methodology section that explains how “post-consumer plastic share” is defined and calculated.",
+        "Find narrative passages in the ESG report where management discusses targets or progress on “post-consumer plastic share.”",
+        "Identify any charts or data tables in the ESG report that track the “post-consumer plastic share” over multiple reporting periods.",
+        "Extract text in the ESG report describing partnerships or programs aimed at increasing the “post-consumer plastic share.”"
+    ],
+    "Recycled Content Claim": [
+        "In the ESG report, search for sections labeled “Recycled Content Claim” and extract the specific claims made, including percentages or standards referenced.",
+        "Locate the ESG report’s explanation of the criteria or certifications used to validate any “Recycled Content Claim.”",
+        "Identify narrative commentary in the ESG report discussing the strategic importance and credibility of the company’s “Recycled Content Claim.”",
+        "Find tables or appendices in the ESG report where “Recycled Content Claim” figures are detailed by product line or business segment.",
+        "Extract passages in the ESG report where external audits or third‐party verifications of the “Recycled Content Claim” are described."
+    ],
+    "再生材料碳排放": [
+        "針對「歷年再生料碳排放數據比較」指標，搜尋公司 ESG 報告書中所有提及「再生材料碳排放」的段落，並提取各年度數值。",
+        "在 ESG 報告書中查找「再生材料碳排放」的定義與計算方法，並摘要其計算範圍與單位。",
+        "定位 ESG 報告書中有關「再生材料碳排放」的管理目標或政策承諾，並摘錄相關文字敘述。",
+        "於 ESG 報告書中尋找「再生材料碳排放」所對應的圖表或表格，並擷取年度趨勢數據。",
+        "提取 ESG 報告書中「再生材料碳排放」部分的管理層評論，並總結其對比分析之要點。"
+    ],
+    "碳足跡比較": [
+        "針對「歷年再生料碳排放數據比較」指標，在 ESG 報告書中搜尋「碳足跡比較」章節，並彙整不同材料或流程的足跡差異。",
+        "在公司 ESG 報告書中定位「碳足跡比較」的計算範圍與基準年份，並摘錄其方法說明。",
+        "查找 ESG 報告書中用於「碳足跡比較」的圖表或比較表，並擷取其中的重點數據。",
+        "搜尋 ESG 報告書中有關「碳足跡比較」的案例研究或成功經驗，並摘要其主要成果。",
+        "提取 ESG 報告書中管理層對「碳足跡比較」結果的解讀與未來目標描述。"
+    ],
+    "再生料減碳量": [
+        "針對「歷年再生料碳排放數據比較」指標，在 ESG 報告書中檢索「再生料減碳量」相關敘述，並提取年度減碳數值。",
+        "於 ESG 報告書中查找「再生料減碳量」的計算公式與假設條件，並彙整其核心要素。",
+        "搜尋 ESG 報告書中「再生料減碳量」的圖表或表格，並擷取對應年度與材料別的減碳比較。",
+        "提取 ESG 報告書中有關「再生料減碳量」績效達成情形的管理層評論。",
+        "定位 ESG 報告書中介紹「再生料減碳量」推動措施或專案範例，並摘要其實施成效。"
+    ],
+    "歷年GHG排放量": [
+        "針對「歷年再生料碳排放數據比較」指標，在 ESG 報告書中搜尋「歷年GHG排放量」統計資料並擷取每年度總量。",
+        "在 ESG 報告書中定位「歷年GHG排放量」的範圍定義與邊界（Scope 1/2/3），並摘要其說明。",
+        "查找 ESG 報告書中「歷年GHG排放量」的趨勢圖或表格，並抓取近五年資料進行比較。",
+        "搜尋 ESG 報告書中就「歷年GHG排放量」的減排目標與達成率的討論段落。",
+        "提取 ESG 報告書中管理層對「歷年GHG排放量」趨勢的分析與未來展望。"
+    ],
+    "減碳數據": [
+        "針對「歷年再生料碳排放數據比較」指標，在 ESG 報告書中檢索「減碳數據」相關章節並彙整年度量化成果。",
+        "於 ESG 報告書中查找「減碳數據」的資料來源與統計方法說明，並摘錄關鍵細節。",
+        "定位 ESG 報告書中展示「減碳數據」的圖表或數據表，並提取各項指標的年度變化。",
+        "搜尋 ESG 報告書中「減碳數據」推動措施的案例，並摘要其實際減排效益。",
+        "提取 ESG 報告書中管理層對「減碳數據」整體績效的評論與未來路徑。"
+    ],
+    "碳排年表": [
+        "針對「歷年再生料碳排放數據比較」指標，在 ESG 報告書中搜尋「碳排年表」並提取各年度排放量清單。",
+        "在 ESG 報告書中定位「碳排年表」的呈現格式（表格/時間線），並擷取數據範圍與標註說明。",
+        "查找 ESG 報告書中「碳排年表」所附的管理層解說文字，並摘要其主要觀點。",
+        "搜尋 ESG 報告書中「碳排年表」中標示的重大減碳里程碑與對應年份。",
+        "提取 ESG 報告書中就「碳排年表」提出的未來年度排放趨勢預估與目標。"
+    ],
+    "GHG減量": [
+        "針對「歷年再生料碳排放數據比較」指標，在 ESG 報告書中搜尋「GHG減量」相關章節並提取具體數值。",
+        "於 ESG 報告書中查找「GHG減量」的計算方法與範圍（Scope 1/2/3），並彙整其說明細節。",
+        "定位 ESG 報告書中用於展示「GHG減量」趨勢的圖表或表格，並抓取每年度減排數據。",
+        "搜尋 ESG 報告書中「GHG減量」的推動策略或專案案例，並摘要其減排效益。",
+        "提取 ESG 報告書中管理層對「GHG減量」成果的評述與未來展望。"
+    ],
+    "recycled material carbon footprint": [
+        "In the company’s ESG report, locate the year‐on‐year values of the recycled material carbon footprint and extract them for comparison.",
+        "Search the ESG report for the section defining the methodology used to calculate the recycled material carbon footprint and summarize the key parameters.",
+        "Identify any tables or charts in the ESG report that illustrate the recycled material carbon footprint trends across reporting years.",
+        "Extract narrative passages where management discusses drivers or improvements in the recycled material carbon footprint over time.",
+        "Find commentary in the ESG report on targets or goals related to reducing the recycled material carbon footprint and their achievement status."
+    ],
+    "CO2 savings over years": [
+        "Locate the section in the ESG report that reports annual CO2 savings over years from recycled materials and extract the numerical data.",
+        "Search for tables or graphs in the ESG report showing CO2 savings over years compared to baseline emissions.",
+        "Find the description of the methodology for calculating CO2 savings over years in the ESG report and summarize its assumptions.",
+        "Identify narrative commentary on strategic initiatives that led to CO2 savings over years and any future targets.",
+        "Extract management discussion where CO2 savings over years are highlighted as part of sustainability performance in the ESG report."
+    ],
+    "annual GHG reduction": [
+        "In the ESG report, find the annual GHG reduction figures achieved through recycled content and list them by year.",
+        "Search for the ESG report section defining the boundaries (Scope 1/2/3) and methodology of annual GHG reduction calculations.",
+        "Locate charts or tables showing annual GHG reduction trends in the ESG report and capture the data points.",
+        "Extract narrative sections describing projects or measures that contributed to annual GHG reduction via recycled materials.",
+        "Identify any targets versus actual performance for annual GHG reduction related to recycled material use in the ESG report."
+    ],
+    "CO2e savings by PCR": [
+        "Search the ESG report for the metric \"CO2e savings by PCR\" and extract the annual values reported.",
+        "Locate the methodology section in the ESG report that explains how CO2e savings by PCR are calculated and list key assumptions.",
+        "Identify tables or charts in the ESG report illustrating CO2e savings by PCR across multiple years.",
+        "Extract narrative commentary on how PCR implementation contributed to CO2e savings in the company’s ESG report.",
+        "Find management discussion regarding targets and achievements for CO2e savings by PCR in the ESG report."
+    ],
+    "carbon footprint of recycled materials": [
+        "In the ESG report, locate sections detailing the carbon footprint of recycled materials and extract data by material and year.",
+        "Search for the methodology used in the ESG report to calculate the carbon footprint of recycled materials and summarize its scope.",
+        "Identify tables or figures comparing the carbon footprint of recycled versus virgin materials over reporting periods.",
+        "Extract narrative commentary on efforts to reduce the carbon footprint of recycled materials and any challenges noted.",
+        "Find any targets or goals related to the carbon footprint of recycled materials discussed in management commentary."
+    ],
+    "GHG reduction by recycled content": [
+        "Locate the data on GHG reduction by recycled content in the ESG report and list the amounts achieved each year.",
+        "Search the ESG report for the methodology describing how GHG reduction by recycled content is measured and its assumptions.",
+        "Identify tables or graphs illustrating GHG reduction by recycled content trends over multiple reporting years.",
+        "Extract narrative passages where the company describes initiatives that delivered GHG reduction by using recycled content.",
+        "Find management commentary on targets, progress, and future plans for GHG reduction by recycled content in the ESG report."
+    ],
+    "原生料與再生料比較": [
+        "在 ESG 報告書中搜尋「原生料與再生料比較」相關段落，並擷取各年度對照數據與指標差異。",
+        "定位 ESG 報告書裡定義「原生料與再生料比較」的方法與範圍，摘要其計算邊界與單位。",
+        "識別 ESG 報告書中呈現「原生料與再生料比較」的圖表或表格，提取其中資源使用量與效率數值。",
+        "提取 ESG 報告書中管理層對「原生料與再生料比較」結果的評論與未來目標描述。",
+        "搜尋 ESG 報告書內成功案例或專案章節，說明如何在不同產品或製程中進行「原生料與再生料比較」。"
+    ],
+    "資源節省": [
+        "在 ESG 報告書中定位「資源節省」指標的定義與計算方式，並摘錄其核心參數與年度數據。",
+        "搜尋 ESG 報告書中所有提及「資源節省」的表格或圖表，並擷取相關量化成果。",
+        "提取 ESG 報告書中描述「資源節省」策略或措施的章節，並摘要其實施成效。",
+        "定位 ESG 報告書內管理層對「資源節省」績效的討論與未來承諾。",
+        "識別 ESG 報告書中具體案例，說明如何透過再生材料實現「資源節省」。"
+    ],
+    "資源使用效率": [
+        "在 ESG 報告書中搜尋「資源使用效率」相關說明，並擷取各年度效率指標數值。",
+        "定位 ESG 報告書內「資源使用效率」的衡量範圍（如能源、水、原料）與計算方法。",
+        "識別 ESG 報告書中呈現「資源使用效率」趨勢的圖表或績效報表，並提取數據。",
+        "提取 ESG 報告書中管理層對「資源使用效率」改善成果的評論與未來目標。",
+        "搜尋 ESG 報告書中案例章節，說明再生材料如何提升「資源使用效率」。"
+    ],
+    "再生材料節能與新料比較": [
+        "在 ESG 報告書中定位「再生材料節能與新料比較」的段落，並擷取能源消耗對比數據。",
+        "搜尋 ESG 報告書中定義「再生材料節能與新料比較」的方法與前提假設。",
+        "識別 ESG 報告書中呈現「再生材料節能與新料比較」的圖表或表格，提取節能百分比。",
+        "提取 ESG 報告書中管理層針對「再生材料節能與新料比較」的分析與策略部署。",
+        "搜尋 ESG 報告書中專案案例，展示再生材料如何在製程中達到節能優勢。"
+    ],
+    "回收資源效率": [
+        "在 ESG 報告書中搜尋「回收資源效率」相關章節，並擷取年度效率指標與計算方式。",
+        "定位 ESG 報告書內定義「回收資源效率」的範圍（如回收率、再利用率）與統計方法。",
+        "識別 ESG 報告書中「回收資源效率」的圖表或附錄表格，提取各年度趨勢數據。",
+        "提取 ESG 報告書中管理層對「回收資源效率」提升措施的評論與成效評估。",
+        "搜尋 ESG 報告書中成功案例，說明企業如何優化「回收資源效率」。"
+    ],
+    "virgin vs recycled resource efficiency": [
+        "In the company’s ESG report, locate sections comparing “virgin vs recycled resource efficiency” and extract the annual efficiency ratios.",
+        "Search the ESG report for the definition and calculation methodology of “virgin vs recycled resource efficiency” and summarize the key parameters.",
+        "Identify any tables or charts in the ESG report that illustrate trends in “virgin vs recycled resource efficiency” over multiple years.",
+        "Extract narrative passages where management discusses initiatives to improve “virgin vs recycled resource efficiency.”",
+        "Find case studies in the ESG report that demonstrate practical examples of “virgin vs recycled resource efficiency” comparisons by product line."
+    ],
+    "material savings": [
+        "In the ESG report, search for “material savings” metrics and compile the reported annual savings achieved through recycled materials.",
+        "Locate the methodology section explaining how “material savings” is defined and calculated, and summarize its assumptions.",
+        "Identify charts or tables in the ESG report that show “material savings” by material type and reporting year.",
+        "Extract narrative commentary on key projects or policies that delivered significant “material savings.”",
+        "Find management discussion on targets, performance, and future goals related to “material savings”."
+    ],
+    "esource efficiency": [
+        "Search the ESG report for mentions of “esource efficiency” and extract any definitions or measurement approaches provided.",
+        "Locate tables or figures illustrating “esource efficiency” trends over the reporting periods and capture the data.",
+        "Identify narrative sections where the company describes improvements in “esource efficiency” through recycling initiatives.",
+        "Extract the methodology details for calculating “esource efficiency” and note any scope or boundary definitions.",
+        "Find case examples in the ESG report that compare “esource efficiency” between virgin and recycled materials."
+    ],
+    "virgin vs recycled materials": [
+        "In the company’s ESG report, locate comparisons of “virgin vs recycled materials” and extract quantitative performance data.",
+        "Search for the ESG report’s definition of “virgin vs recycled materials” and summarize the criteria used for comparison.",
+        "Identify any visualizations—such as charts or infographics—that depict “virgin vs recycled materials” usage ratios by year.",
+        "Extract narrative passages discussing advantages or challenges in shifting from virgin to recycled materials.",
+        "Find specific product- or process-level examples in the ESG report where “virgin vs recycled materials” were evaluated."
+    ],
+    "environmental savings comparison": [
+        "Search the ESG report for “environmental savings comparison” sections and extract the key comparison metrics year by year.",
+        "Locate tables or charts in the ESG report that illustrate “environmental savings comparison” between different material sources.",
+        "Identify narrative commentary on strategic initiatives that contributed to “environmental savings comparison” outcomes.",
+        "Extract the methodology details for how “environmental savings comparison” is calculated and any baselines used.",
+        "Find examples or case studies in the ESG report highlighting significant “environmental savings comparison” results."
+    ],
+    "recycled vs virgin environmental impact": [
+        "In the ESG report, locate sections comparing “recycled vs virgin environmental impact” and extract the quantitative impact metrics.",
+        "Search for the ESG report’s definition and scope of “recycled vs virgin environmental impact” assessments.",
+        "Identify any charts or tables showing “recycled vs virgin environmental impact” trends over multiple reporting years.",
+        "Extract narrative passages where management discusses the environmental trade-offs in “recycled vs virgin environmental impact.”",
+        "Find case studies in the ESG report that illustrate real-world examples of “recycled vs virgin environmental impact” analysis."
+    ],
+    "產品壽命": [
+        "在該公司 ESG 報告書中搜尋「產品壽命」相關段落，並擷取各年度及各產品線的壽命指標數值。",
+        "定位 ESG 報告書中對「產品壽命」定義與測量方法的說明，並摘要其計算範圍與單位。",
+        "識別 ESG 報告書中呈現「產品壽命」趨勢的圖表或表格，並提取各年度比較數據。",
+        "提取管理層在 ESG 報告書中談論「產品壽命」提升策略或目標的敘述。",
+        "搜尋 ESG 報告書中具體案例，說明不同產品如何通過設計或材料提升「產品壽命」。"
+    ],
+    "延長使用年限": [
+        "在 ESG 報告書中查找「延長使用年限」的政策與目標，並摘錄各年度達成情況。",
+        "定位 ESG 報告書中對「延長使用年限」措施（如升級、翻新）的描述與成效數據。",
+        "識別 ESG 報告書裡展示「延長使用年限」前後對比的圖表或實例。",
+        "提取管理層在 ESG 報告書中關於「延長使用年限」的戰略規劃或執行進度。",
+        "搜尋 ESG 報告書中客戶延長使用年限的真實案例及其環境效益分析。"
+    ],
+    "可維修設計": [
+        "在該公司 ESG 報告書中搜尋「可維修設計」相關章節，並摘錄設計原則與標準。",
+        "定位 ESG 報告書中對「可維修設計」在產品開發流程中的應用案例及成效。",
+        "識別 ESG 報告書中展示「可維修設計」與不可維修產品比較的圖表或實例。",
+        "提取管理層在 ESG 報告書中對「可維修設計」能力建設與目標的敘述。",
+        "搜尋 ESG 報告書中相關供應鏈或合作夥伴在「可維修設計」上提供的技術或服務說明。"
+    ],
+    "模組化設計": [
+        "在 ESG 報告書中查找「模組化設計」的定義與核心原則，並擷取相關描述。",
+        "定位 ESG 報告書中對「模組化設計」在產品更新、維修上的應用案例與效益數據。",
+        "識別 ESG 報告書裡展示「模組化設計」前後對比的圖表或產品拆解示意圖。",
+        "提取管理層在 ESG 報告書中對推動「模組化設計」的策略與時間表。",
+        "搜尋 ESG 報告書中合作夥伴或子公司在「模組化設計」上的成功實踐案例。"
+    ],
+    "耐用性提升": [
+        "在該公司 ESG 報告書中搜尋「耐用性提升」相關章節，並擷取具體測試或實驗數據。",
+        "定位 ESG 報告書中對「耐用性提升」技術或材料改進的說明與成效報告。",
+        "識別 ESG 報告書裡展示「耐用性提升」前後對比的圖表或測試結果。",
+        "提取管理層在 ESG 報告書中對「耐用性提升」目標與績效評估的敘述。",
+        "搜尋 ESG 報告書中客戶或市場反饋中關於「耐用性提升」的案例與分析。"
+    ],
+    "維修服務年限": [
+        "在 ESG 報告書中查找「維修服務年限」的官方保障政策與適用範圍描述。",
+        "定位 ESG 報告書中對「維修服務年限」的統計數據，包括平均延長年限和覆蓋率。",
+        "識別 ESG 報告書裡展示「維修服務年限」變化趨勢的表格或折線圖。",
+        "提取管理層在 ESG 報告書中對延長「維修服務年限」措施與投入資源的敘述。",
+        "搜尋 ESG 報告書中客戶滿意度或案例分析，說明「維修服務年限」對用戶行為的影響。"
+    ],
+    "延長保固": [
+        "在該公司 ESG 報告書中搜尋「延長保固」政策與對應產品範圍的描述。",
+        "定位 ESG 報告書中對「延長保固」實施前後的服務成本與客戶反饋數據。",
+        "識別 ESG 報告書裡展示「延長保固」覆蓋率與成長趨勢的圖表或數據表。",
+        "提取管理層在 ESG 報告書中對「延長保固」對品牌信任與環境效益的評估。",
+        "搜尋 ESG 報告書中具體案例，說明延長保固如何促進資源循環與減少廢棄。"
+    ],
+    "product lifespan": [
+        "In the company’s ESG report, locate all references to “product lifespan” and extract the reported lifespan values by product line and year.",
+        "Search the ESG report for the definition and calculation methodology of “product lifespan” and summarize the criteria and units used.",
+        "Identify any tables or charts in the ESG report illustrating trends in “product lifespan” over multiple reporting periods.",
+        "Extract narrative passages where management discusses strategies or targets for extending “product lifespan.”",
+        "Find case studies in the ESG report showcasing examples of products with significantly improved “product lifespan.”"
+    ],
+    "durability": [
+        "In the ESG report, search for sections on “durability” and extract quantitative metrics or test results reported by year.",
+        "Locate the methodology in the ESG report for measuring “durability,” including test standards and performance thresholds.",
+        "Identify charts or graphs in the ESG report that compare “durability” improvements across different product generations.",
+        "Extract management commentary on initiatives undertaken to enhance “durability” in the ESG report.",
+        "Find examples in the ESG report where third-party certifications or warranties validate product “durability.”"
+    ],
+    "modular design": [
+        "Within the company’s ESG report, find mentions of “modular design” and summarize the principles and modules described.",
+        "Search the ESG report for case studies demonstrating how “modular design” has enabled easier upgrades or repairs.",
+        "Identify any diagrams or figures in the ESG report that illustrate the company’s “modular design” architecture.",
+        "Extract narrative sections where management explains the environmental benefits of adopting “modular design.”",
+        "Locate tables or metrics in the ESG report tracking the adoption rate or impact of “modular design” over time."
+    ],
+    "repairability": [
+        "In the ESG report, search for “repairability” metrics and extract any repair success rates or mean time to repair (MTTR) values.",
+        "Locate the ESG report section that defines “repairability,” including criteria used to assess repair ease and cost.",
+        "Identify charts or tables in the ESG report showing trends in product “repairability” or number of repairs performed.",
+        "Extract narrative commentary on the company’s repair programs or partnerships aimed at improving “repairability.”",
+        "Find case studies in the ESG report where enhanced “repairability” extended product service life and reduced waste."
+    ],
+    "upgradeable": [
+        "Search the ESG report for references to “upgradeable” products and extract descriptions of upgrade options by product model.",
+        "Locate the methodology in the ESG report for evaluating “upgradeable” features and their impact on lifecycle extension.",
+        "Identify any tables or figures in the ESG report tracking the percentage of products sold with “upgradeable” components.",
+        "Extract management discussions on the strategic importance and challenges of offering “upgradeable” products.",
+        "Find examples in the ESG report illustrating successful upgrade programs and their environmental or economic benefits."
+    ],
+    "extension service life": [
+        "In the ESG report, locate sections on “extension service life” and extract metrics showing additional years of service achieved.",
+        "Search the ESG report for the methodology used to calculate “extension service life” and summarize the key assumptions.",
+        "Identify charts or tables illustrating “extension service life” achieved through maintenance or refurbishment programs.",
+        "Extract narrative passages where management reflects on the impact of “extension service life” initiatives on sustainability goals.",
+        "Find case studies in the ESG report demonstrating how specific programs extended the service life of key products."
+    ],
+    "每公斤成本": [
+        "針對「單位經濟效益」指標，在公司ESG報告書中搜尋「每公斤成本」相關段落，並提取各年度數值與計算依據。",
+        "在ESG報告書中定位對「每公斤成本」的定義與範圍說明，並摘要其計算方法與單位。",
+        "尋找ESG報告書中涉及「每公斤成本」的圖表或表格，並擷取比較不同材料或流程的成本變動。",
+        "提取管理層在ESG報告書中就「每公斤成本」的成本結構分析與優化策略的敘述。",
+        "查找ESG報告書中案例研究，說明如何通過再生材料或流程改進降低「每公斤成本」。"
+    ],
+    "每單位碳排放": [
+        "針對「單位經濟效益」指標，在ESG報告書中搜尋「每單位碳排放」相關敘述，並提取年度數據。",
+        "定位報告書中「每單位碳排放」的定義、計算範圍（Scope 1/2/3）與方法說明，並摘要要點。",
+        "尋找ESG報告書中「每單位碳排放」的趨勢圖表，擷取各年度碳效率變化。",
+        "提取管理層在報告書中針對「每單位碳排放」的減排目標與實際績效評論。",
+        "查找ESG報告書中案例，展示通過流程優化或材料替換降低「每單位碳排放」的成效。"
+    ],
+    "每單位效益": [
+        "在ESG報告書中搜尋「每單位效益」定義與計算方式，並摘要其使用的效益指標與單位。",
+        "定位報告書中「每單位效益」的表格或圖示，提取不同年度或方案下的效益評估數據。",
+        "尋找管理層對「每單位效益」的分析與提升策略敘述，並提取關鍵觀點。",
+        "查找報告書中有關「每單位效益」比較不同材料或工藝案例的詳細數據。",
+        "提取報告書中有關「每單位效益」與成本或碳排放綜合評估的敘述與結論。"
+    ],
+    "再生塑膠性價比": [
+        "在ESG報告書中搜尋「再生塑膠性價比」相關段落，並提取性價比計算依據與結果。",
+        "定位報告書中「再生塑膠性價比」的定義與範圍說明，並摘要其關鍵參數。",
+        "尋找ESG報告書中展示「再生塑膠性價比」與原生塑膠比較的圖表或表格，並提取數據。",
+        "提取管理層在報告書中對「再生塑膠性價比」優勢與挑戰的評論與未來計畫。",
+        "查找報告書中案例，說明通過再生塑膠提升性價比後對單位經濟效益的影響。"
+    ],
+    "循環效益與成本比": [
+        "針對「單位經濟效益」指標，在ESG報告書中搜尋「循環效益與成本比」的定義與計算方法，並摘要要點。",
+        "定位報告書中「循環效益與成本比」的圖表或表格，提取不同年度或專案的效益與成本比較數據。",
+        "尋找管理層在報告書中對「循環效益與成本比」的分析、優化策略與決策依據。",
+        "查找報告書中案例研究，展示如何通過循環經濟措施實現最佳的「循環效益與成本比」。",
+        "提取報告書中有關「循環效益與成本比」的敏感度分析或情景模擬結果。"
+    ],
+    "unit economic benefit": [
+        "In the company’s ESG report, locate all references to “unit economic benefit” and extract the reported values by year and by product or material unit.",
+        "Search the ESG report for the definition and calculation methodology of “unit economic benefit” and summarize the key parameters and formulas used.",
+        "Identify any tables or charts in the ESG report illustrating trends in “unit economic benefit” over multiple reporting periods.",
+        "Extract narrative passages where management discusses targets or initiatives aimed at improving “unit economic benefit.”",
+        "Find case studies in the ESG report that showcase examples of how specific projects enhanced the “unit economic benefit.”"
+    ],
+    "cost per kg": [
+        "In the ESG report, search for “cost per kg” metrics and extract the reported costs for different materials or products across reporting years.",
+        "Locate the section in the ESG report explaining how “cost per kg” is calculated, including scope, exclusions, and data sources.",
+        "Identify tables or charts in the ESG report comparing “cost per kg” between recycled and virgin materials and capture the numerical data.",
+        "Extract narrative commentary where management outlines strategies to reduce “cost per kg” through material optimization or recycling.",
+        "Find examples in the ESG report of projects or pilots that demonstrate measurable reductions in “cost per kg.”"
+    ],
+    "CO2 per unit": [
+        "Within the company’s ESG report, locate all mentions of “CO2 per unit” and extract the emissions values reported per product or service unit.",
+        "Search the ESG report for the methodology used to calculate “CO2 per unit,” including emission scopes and boundary definitions.",
+        "Identify any charts or graphs in the ESG report that illustrate “CO2 per unit” trends over multiple years or across product lines.",
+        "Extract management commentary where targets, performance, or improvements in “CO2 per unit” are discussed.",
+        "Find case studies in the ESG report showing specific process changes that led to reductions in “CO2 per unit.”"
+    ],
+    "ROI of recycling": [
+        "In the ESG report, search for “ROI of recycling” and extract the financial return metrics associated with recycling initiatives.",
+        "Locate the section that defines and explains the calculation methodology for “ROI of recycling” within the ESG report.",
+        "Identify tables or visuals in the ESG report that compare the “ROI of recycling” to other sustainability investments.",
+        "Extract narrative passages where management evaluates the success or challenges of achieving a positive “ROI of recycling.”",
+        "Find case studies in the ESG report illustrating specific recycling projects and their realized “ROI of recycling.”"
+    ],
+    "lifecycle cost benefit": [
+        "In the ESG report, locate references to “lifecycle cost benefit” and extract reported figures for different products or materials.",
+        "Search for the methodology section explaining how “lifecycle cost benefit” is assessed, including time horizon and cost categories.",
+        "Identify tables or charts in the ESG report illustrating “lifecycle cost benefit” comparisons between recycled and virgin materials.",
+        "Extract narrative commentary where management discusses strategies to maximize “lifecycle cost benefit.”",
+        "Find case studies in the ESG report showing projects that delivered quantifiable “lifecycle cost benefit.”"
+    ],
+    "economic efficiency of recycling": [
+        "Within the ESG report, locate mentions of “economic efficiency of recycling” and extract the metrics used to measure it.",
+        "Search the ESG report for the definition and calculation methodology of “economic efficiency of recycling.”",
+        "Identify any tables or charts that illustrate trends in the “economic efficiency of recycling” over multiple years.",
+        "Extract narrative passages where management sets targets or reports progress on improving the “economic efficiency of recycling.”",
+        "Find case studies in the ESG report that showcase successful efforts to enhance the “economic efficiency of recycling.”"
+    ],
+    "lifecycle unit cost": [
+        "In the company’s ESG report, search for “lifecycle unit cost” references and extract the reported costs per unit over its lifecycle.",
+        "Locate the section that defines and explains how “lifecycle unit cost” is calculated, including inputs and assumptions.",
+        "Identify charts or tables comparing “lifecycle unit cost” for recycled versus virgin materials and capture the data.",
+        "Extract narrative commentary where management discusses initiatives to reduce “lifecycle unit cost.”",
+        "Find examples in the ESG report of projects that achieved significant reductions in “lifecycle unit cost.”"
+    ],
+    "unit GHG": [
+        "Within the ESG report, locate all mentions of “unit GHG” and extract the greenhouse gas emissions reported per unit of product or activity.",
+        "Search the ESG report for the methodology used to calculate “unit GHG,” including scope definitions and calculation tools.",
+        "Identify tables or graphs in the ESG report illustrating “unit GHG” trends over reporting periods or across product lines.",
+        "Extract narrative passages where management outlines goals or achievements related to “unit GHG” reduction.",
+        "Find case studies in the ESG report demonstrating specific measures that led to lower “unit GHG.”"
+    ],
+    "recycled vs virgin unit value": [
+        "In the ESG report, search for comparisons of “recycled vs virgin unit value” and extract the quantitative differences reported.",
+        "Locate the section defining and explaining the calculation methodology for “recycled vs virgin unit value.”",
+        "Identify any tables or charts in the ESG report that compare “recycled vs virgin unit value” across product categories.",
+        "Extract narrative commentary where management discusses the business case or benefits of “recycled vs virgin unit value.”",
+        "Find case studies in the ESG report that illustrate successful implementations yielding higher “recycled vs virgin unit value.”"
+    ],
+    "循環次數": [
+        "在 ESG 報告書中搜尋「循環次數」相關段落，擷取各年度材料或產品的循環次數數據。",
+        "定位報告書中對「循環次數」的定義與計算方法，並摘要其範圍與單位。",
+        "識別報告書中呈現「循環次數」趨勢的圖表或表格，並提取各年度比較結果。",
+        "提取管理層對「循環次數」目標與達成情況的評論與展望。",
+        "搜尋案例章節，說明具體專案如何影響材料或產品的「循環次數」。"
+    ],
+    "再利用次數": [
+        "在 ESG 報告書中搜尋「再利用次數」並擷取不同產品或零件的再利用次數統計。",
+        "定位報告書內「再利用次數」的衡量範圍與方法說明，並摘要核心要素。",
+        "識別報告書中展示「再利用次數」改善前後對比的圖表或數據表。",
+        "提取管理層對提高「再利用次數」措施及成效的敘述。",
+        "搜尋報告書中具體案例，說明再利用流程中如何提升「再利用次數」。"
+    ],
+    "再生次數": [
+        "在 ESG 報告書中搜尋「再生次數」相關描述，並擷取年度再生循環次數數據。",
+        "定位報告書中「再生次數」的定義與計算方式，並摘要其參考標準。",
+        "識別報告書裡「再生次數」趨勢圖或表格，並提取各年度再生效率變化。",
+        "提取管理層對「再生次數」提升策略與進度的評論。",
+        "搜尋報告書中示例，說明原料再生工藝如何影響「再生次數」。"
+    ],
+    "可再製次數": [
+        "在 ESG 報告書中搜尋「可再製次數」相關段落，並擷取可多次製造的產品次數。",
+        "定位報告書內「可再製次數」的範疇與計算方法，並摘要核心定義。",
+        "識別報告書中展示「可再製次數」不同材料或設計之比較圖表。",
+        "提取管理層對加強「可再製次數」技術或設計投入的敘述。",
+        "搜尋報告書中案例，說明通過模組化或維修設計提升「可再製次數」。"
+    ],
+    "再加工循環": [
+        "在 ESG 報告書中搜尋「再加工循環」並擷取再加工工藝的循環次數描述。",
+        "定位報告書中「再加工循環」的流程範圍與評估標準，並摘要其要點。",
+        "識別報告書裡「再加工循環」對比原生流程與再加工流程的效率圖表。",
+        "提取管理層對「再加工循環」工藝優化與未來規劃的評論。",
+        "搜尋報告書中的專案案例，說明再加工工藝如何實現材料再循環。"
+    ],
+    "材料耐久": [
+        "在 ESG 報告書中搜尋「材料耐久」測試結果與耐用年限數據，並擷取關鍵指標。",
+        "定位報告書內「材料耐久」的測量方法與標準，並摘要其核心參數。",
+        "識別報告書中展示「材料耐久」在不同材料或設計改進前後的對比圖表。",
+        "提取管理層對提升「材料耐久」研發投入與成果的敘述。",
+        "搜尋報告書中案例，說明耐用性改進如何延長材料的使用循環次數。"
+    ],
+    "回收次數": [
+        "在 ESG 報告書中搜尋「回收次數」相關段落，並擷取材料或產品的回收次數統計。",
+        "定位報告書中「回收次數」的定義與計算方式，並摘要其範圍與邊界。",
+        "識別報告書裡展示「回收次數」趨勢的圖表或數據表，並提取年度比較結果。",
+        "提取管理層對提升「回收次數」回收體系或政策的評論與目標。",
+        "搜尋報告書中實例，說明回收流程改進如何增加「回收次數」。"
+    ],
+    "recycling cycles": [
+        "In the company’s ESG report, locate all references to “recycling cycles” and extract the reported number of cycles for each material or product.",
+        "Search the ESG report for the methodology used to calculate “recycling cycles” and summarize the definitions and boundaries applied.",
+        "Identify any tables or charts in the ESG report that illustrate trends in “recycling cycles” over multiple years.",
+        "Extract narrative sections where management discusses targets or improvements related to increasing “recycling cycles.”",
+        "Find case studies in the ESG report showcasing specific programs or technologies that extended the number of “recycling cycles.”"
+    ],
+    "number of reuse times": [
+        "In the ESG report, search for “number of reuse times” and extract the data showing how many times products or components were reused each year.",
+        "Locate the section defining “number of reuse times” in the ESG report, including calculation methods and scope.",
+        "Identify charts or tables presenting the “number of reuse times” trends across different product lines.",
+        "Extract management commentary on initiatives aimed at maximizing the “number of reuse times.”",
+        "Find examples in the ESG report where enhancements in design or process led to a higher “number of reuse times.”"
+    ],
+    "remanufacturing times": [
+        "Within the company’s ESG report, locate mentions of “remanufacturing times” and extract the frequency figures reported annually.",
+        "Search for the ESG report’s definition and methodology for “remanufacturing times,” summarizing key assumptions.",
+        "Identify any visuals—such as charts or graphs—displaying “remanufacturing times” trends over consecutive reporting periods.",
+        "Extract narrative passages where management outlines strategies to increase “remanufacturing times.”",
+        "Find case studies demonstrating successful remanufacturing programs and their impact on “remanufacturing times.”"
+    ],
+    "recycled loops": [
+        "In the ESG report, search for references to “recycled loops” and extract the measured number of loops achieved for each material type.",
+        "Locate the methodology section describing how “recycled loops” are tracked and calculated, and summarize the approach.",
+        "Identify tables or figures showing “recycled loops” performance year by year in the ESG report.",
+        "Extract narrative commentary on initiatives or partnerships that improved “recycled loops.”",
+        "Find specific examples in the ESG report where innovations led to extended “recycled loops.”"
+    ],
+    "recycled material durability": [
+        "Within the ESG report, locate all sections discussing “recycled material durability” and extract durability metrics for each material.",
+        "Search for the definition and test methods for “recycled material durability” in the ESG report and summarize the protocols used.",
+        "Identify any charts or tables in the ESG report that compare “recycled material durability” against virgin materials over time.",
+        "Extract management commentary on improvements or challenges related to “recycled material durability.”",
+        "Find case studies illustrating how enhanced durability extended the usable life of recycled materials."
+    ],
+    "durability of recycled material": [
+        "In the company’s ESG report, search for “durability of recycled material” and extract the performance data reported for each year.",
+        "Locate the section defining “durability of recycled material” including test standards and metrics used.",
+        "Identify any visuals showing trends in “durability of recycled material” across different products or material grades.",
+        "Extract narrative passages where management discusses efforts to enhance the “durability of recycled material.”",
+        "Find examples in the ESG report where improved material formulations led to greater “durability of recycled material.”"
+    ],
+    "material degradation": [
+        "Within the ESG report, locate sections addressing “material degradation” and extract data on degradation rates for recycled materials.",
+        "Search for the methodology used to assess “material degradation” in the ESG report and summarize key testing protocols.",
+        "Identify charts or tables comparing “material degradation” of recycled versus virgin materials over multiple cycles.",
+        "Extract narrative commentary on strategies implemented to reduce “material degradation.”",
+        "Find case studies demonstrating technological or process improvements that minimized “material degradation.”"
+    ]
+}
